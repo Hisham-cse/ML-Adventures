@@ -1,0 +1,10 @@
+What is data structure?
+
+Data structure is a way of storing and organizing data in a computer so that it can be used efficiently. It involves the use of algorithms and data types to store and manipulate data in a structured way.
+
+What is algorithm?
+
+An algorithm is a step-by-step procedure for solving a problem or performing a computation. It is a sequence of instructions that are followed to achieve a desired outcome. Algorithms are used in computer science to solve problems, perform computations, and manipulate data.
+
+What is the difference between data structure and algorithm?
+Data structure is a way of storing and organizing data in a computer, while algorithm is a step-by-step procedure for solving a problem or performing a computation. Data structures are used to store and manipulate data efficiently, while algorithms are used to solve problems and perform computations.
