@@ -1,6 +1,6 @@
 # What is list in python
-# List is a collection which is ordered and changeable. Allows duplicate members.
-
+# List are ordered and changeable. Allows duplicate members.
+# they can contain items of different data types
 list1= [1,2,3,4,5,6,7,8,9,10]
 
 
